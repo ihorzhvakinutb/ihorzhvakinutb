@@ -6,6 +6,10 @@
 
 I build reliable embedded interfaces, LVGL-based industrial dashboards, and smooth mobile-first game systems with clean scalable architecture.
 
+![Profile Views](https://komarev.com/ghpvc/?username=ihorzhvakinutb&style=for-the-badge&color=0e75b6)
+![Focus](https://img.shields.io/badge/Focus-ESP32%20%7C%20LVGL%20%7C%20Godot-111111?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Clean%20%26%20Scalable-2ea44f?style=for-the-badge)
+
 </div>
 
 ---
@@ -32,9 +36,17 @@ I build reliable embedded interfaces, LVGL-based industrial dashboards, and smoo
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### Laser+
 
 Industrial-style ESP32/LVGL HMI project focused on clean controls, readable values, stable UI updates, and scalable embedded architecture.
+
+![ESP32](https://img.shields.io/badge/ESP32-Firmware-111111?style=flat-square&logo=espressif&logoColor=white)
+![LVGL](https://img.shields.io/badge/LVGL-HMI-343A40?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Public%20release%20preparing-f9c23c?style=flat-square)
 
 **Highlights**
 
@@ -44,13 +56,18 @@ Industrial-style ESP32/LVGL HMI project focused on clean controls, readable valu
 - Prepared for future communication layers such as UART, RS485, or CAN
 - Production-minded structure for long-term maintenance
 
-**Repository:** `Laser+`
+[Open repository](https://github.com/ihorzhvakinutb/Laser-Plus)
 
----
+</td>
+<td width="50%">
 
 ### Mobile Game
 
 Godot 4 mobile-first game project focused on portrait gameplay, smooth feedback, reusable systems, and Android performance.
+
+![Godot](https://img.shields.io/badge/Godot_4-Mobile-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Optimized-3DDC84?style=flat-square&logo=android&logoColor=111111)
+![Status](https://img.shields.io/badge/Status-Public%20release%20preparing-f9c23c?style=flat-square)
 
 **Highlights**
 
@@ -60,9 +77,20 @@ Godot 4 mobile-first game project focused on portrait gameplay, smooth feedback,
 - Save/load and achievement-system-ready structure
 - Optimized direction for Android devices
 
-**Repository:** `Game`
+[Open repository](https://github.com/ihorzhvakinutb/Mobile-Game)
+
+</td>
+</tr>
+</table>
 
 ---
+
+## Current Roadmap
+
+- Publish Laser+ as a clean public ESP32/LVGL HMI repository
+- Prepare the Godot mobile game project for public release
+- Add project screenshots, architecture notes, and setup instructions
+- Keep repositories structured for future scaling and collaboration
 
 ## Engineering Style
 
